@@ -1,0 +1,45 @@
+{
+  "name": "STEM Learn - Gamified Education Platform",
+  "short_name": "STEM Learn",
+  "description": "Interactive STEM learning platform for rural schools with offline capabilities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "categories": ["education", "learning", "STEM"],
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/placeholder.svg", 
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/placeholder.svg",
+      "type": "image/svg+xml", 
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "fast",
+    "simple"
+  ],
+  "screenshots": [
+    {
+      "src": "/placeholder.svg",
+      "type": "image/svg+xml",
+      "sizes": "1280x720",
+      "label": "STEM Learn Dashboard"
+    }
+  ]
+}
